@@ -1,19 +1,16 @@
 body {
-    background-color: rgba(235, 211, 223, 0.973);
+    background-color: rgba(228, 103, 165, 0.973);
 
 
 
 #img {
     width: 50%;
-    height: 70%;
-
+    height: 90%;
 }
-}
-
 
 h1 {
     text-align: center;
-
+}
 h2 {
    text-align: center;
 }
